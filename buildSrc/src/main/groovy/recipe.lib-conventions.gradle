@@ -1,0 +1,4 @@
+plugins{
+    id 'java-library'
+    id 'recipe.java-conventions'
+}

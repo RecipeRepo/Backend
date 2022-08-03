@@ -1,3 +1,2 @@
-# Backend
-Backend for Recipe storage and retrieval
-Written using Java Spring Boot
+# RecipeRepo
+Program to store and retrieve recipes
